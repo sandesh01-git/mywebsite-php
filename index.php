@@ -130,7 +130,7 @@
 <section>
 <div class="container gallery-container">
 
-    <h1>Bootstrap 3 Gallery</h1>
+    <h1>Tourist Places (eastern development region) Gallery</h1>
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
